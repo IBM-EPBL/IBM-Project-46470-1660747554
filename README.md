@@ -11,6 +11,6 @@ Balasurya S S
 Sibiraj S
 
 
-| Industry Mentor(s) Name | : | Sowjanya, Sandeep Doodigani |
+| Industry Mentor(s) Name | : | Divya                       |
 | ----------------------- | - | --------------------------- |
 | Faculty Mentor(s) Name  | : | Joel Anandraj E             |
